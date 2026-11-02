@@ -1,4 +1,4 @@
-# GitHub Repo 連結待登入後建立
+https://github.com/41154b027/sweet-squishy-studio
 
 # 甜點捏捏樂
 
