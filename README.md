@@ -8,7 +8,13 @@ https://github.com/41154b027/sweet-squishy-studio
 
 ## 開始遊玩
 
-直接開啟 `index.html` 即可體驗。若要分享給同學，可在 GitHub 建立公開 repository，並到 **Settings → Pages** 將部署來源設為 `main` 分支的根目錄。
+直接開啟遊玩頁面即可開始：
+
+https://41154b027.github.io/sweet-squishy-studio/
+
+要查看作品原始檔，請前往 GitHub repository：
+
+https://github.com/41154b027/sweet-squishy-studio
 
 ## 遊戲內容
 
