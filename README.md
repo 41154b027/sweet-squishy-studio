@@ -1,5 +1,7 @@
 https://github.com/41154b027/sweet-squishy-studio
 
+遊玩頁面：https://41154b027.github.io/sweet-squishy-studio/
+
 # 甜點捏捏樂
 
 一個可以自由搭配烘焙材料、創作甜點，再把成品加入收藏館捏玩的互動網頁。
